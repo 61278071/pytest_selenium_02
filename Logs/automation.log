@@ -1,0 +1,138 @@
+08032023 12:49:17 PM - INFO - ****** Test started **********
+08032023 02:12:49 PM - INFO - ****** Test started **********
+08032023 02:14:09 PM - INFO - ****** Test started **********
+08032023 02:40:10 PM - INFO - ****** Test started **********
+08032023 02:40:37 PM - INFO - ****** Test started **********
+08032023 02:40:57 PM - INFO - ****** Test started **********
+08032023 02:46:17 PM - INFO - ****** Test started **********
+08032023 03:04:44 PM - INFO - ****** Test started **********
+08032023 03:19:05 PM - INFO - ****** Test started **********
+08032023 03:30:46 PM - INFO - ****** Test started **********
+08032023 03:55:52 PM - INFO - ****** Test started **********
+08042023 10:44:12 AM - INFO - ****** Test started **********
+08042023 10:49:21 AM - INFO - ****** Home Page Test started **********
+08042023 10:49:25 AM - INFO - ****** Home Page Tested Successfullyu **********
+08042023 11:37:49 AM - INFO - ****** Home Page Test started **********
+08042023 11:37:54 AM - INFO - ****** Home Page Tested Successfullyu **********
+08042023 11:40:08 AM - INFO - ****** Home Page Test started **********
+08042023 11:40:12 AM - INFO - ****** Home Page Tested Successfullyu **********
+08042023 11:51:31 AM - INFO - ****** Home Page Test started **********
+08042023 11:51:33 AM - INFO - ****** Home Page Tested Successfully **********
+08042023 11:51:42 AM - INFO - ****** Login Test Passed **********
+08042023 11:53:12 AM - INFO - ****** Home Page Test started **********
+08042023 11:53:13 AM - INFO - ****** Home Page Tested Successfully **********
+08042023 11:53:19 AM - INFO - ****** Login Test Passed **********
+08042023 11:59:56 AM - INFO - ****** Home Page Test started **********
+08042023 12:00:00 PM - INFO - ****** Home Page Tested Successfully **********
+08042023 12:00:03 PM - INFO - ****** Login Test Passed **********
+08052023 10:17:22 PM - INFO - ****** Home Page Test started **********
+08052023 10:17:26 PM - INFO - ****** Home Page Tested Successfully **********
+08052023 10:17:30 PM - INFO - ****** Login Test Passed **********
+08062023 02:44:53 PM - INFO - ****** Home Page Test started **********
+08062023 02:44:57 PM - INFO - ****** Home Page Tested Successfully **********
+08062023 02:45:01 PM - INFO - ****** Login Test Passed **********
+08062023 02:55:30 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 02:55:30 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 02:59:53 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 02:59:53 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 10:05:58 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 10:05:58 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 10:07:57 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 10:07:57 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 10:11:49 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 10:11:49 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 10:13:00 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 10:13:00 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 10:22:13 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 10:22:13 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 10:41:19 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 10:41:19 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 10:42:23 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 10:42:23 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 11:04:31 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 11:04:31 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 11:07:02 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 11:07:02 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 11:17:26 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 11:17:26 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 11:20:03 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 11:20:03 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 11:23:34 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 11:23:34 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 11:30:29 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 11:30:29 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 11:31:36 PM - INFO - ************ TEST_LOGIN_DDT *******
+08062023 11:31:36 PM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08062023 11:31:44 PM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 09:55:45 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 09:55:45 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 09:55:50 AM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 10:01:37 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 10:01:37 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 10:01:42 AM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 10:03:08 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 10:03:08 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 10:03:14 AM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 10:04:25 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 10:04:25 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 10:04:28 AM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 10:04:29 AM - INFO - ********** Logged Out successful **********
+08072023 10:05:33 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 10:05:33 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 10:05:40 AM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 10:05:41 AM - INFO - ********** Logged Out successful **********
+08072023 10:05:41 AM - INFO - **********Login Test DDT *** Passed ********
+08072023 10:05:41 AM - INFO - **********END of Login  - **********Login successful_ValidData***Test-Passed********
+08072023 10:37:46 AM - ITest DDT ********
+08072023 10:05:41 AM - INFO - **********Completed TC_login DDT ********
+08072023 10:08:09 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 10:08:09 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 10:08:15 AM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 10:08:17 AM - INFO - ********** Logged Out successful **********
+08072023 10:08:17 AM - INFO - **********Login Test DDT *** Passed ********
+08072023 10:08:18 AM - INFO - **********END of Login Test DDT ********
+08072023 10:08:18 AM - INFO - **********Completed TC_login DDT ********
+08072023 10:28:22 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 10:28:22 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 10:28:27 AM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 10:28:28 AM - INFO - ********** Logged Out successful **********
+08072023 10:28:28 AM - INFO - **********Login Test DDT *** Passed ********
+08072023 10:28:28 AM - INFO - **********END of Login Test DDT ********
+08072023 10:28:28 AM - INFO - **********Completed TC_login DDT ********
+08072023 10:29:47 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 10:29:47 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 10:33:40 AM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 10:33:58 AM - INFO - ********** Logged Out successful **********
+08072023 10:34:19 AM - INFO - **********Login Test DDT *** Passed ********
+08072023 10:37:39 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 10:37:39 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 10:37:44 AM - INFONFO - ********** Logged Out successful **********
+08072023 10:37:47 AM - INFO - **********Login Failed_ValidData***Test-Failed********
+08072023 10:40:35 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 10:40:35 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 10:41:25 AM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 10:41:32 AM - INFO - ********** Logged Out successful **********
+08072023 10:43:42 AM - INFO - **********Login Failed_ValidData***Test-Failed********
+08072023 10:45:32 AM - INFO - ************ TEST_LOGIN_DDT *******
+08072023 10:45:32 AM - INFO - ************ VERIFYING LOGIN_DDT TEST *******
+08072023 10:45:38 AM - INFO - **********Login successful_ValidData***Test-Passed********
+08072023 10:45:40 AM - INFO - ********** Logged Out successful **********
+08072023 10:45:40 AM - INFO - **********Login Failed_ValidData***Test-Failed********
+08072023 10:45:41 AM - INFO - **********Login Failed_ValidData***Test-Failed********
+08072023 10:45:41 AM - INFO - **********Login Test DDT *** Passed ********
+08072023 10:45:41 AM - INFO - **********END of Login Test DDT ********
+08072023 10:45:41 AM - INFO - **********Completed TC_login DDT ********
+08092023 03:27:03 PM - INFO - *********** Test_AddCustomer_003 ************
+08092023 03:27:03 PM - INFO - *********** Verifying AddCustomer Test ************
+08092023 03:27:09 PM - INFO - *********** Login Successful ************
+08092023 03:27:43 PM - INFO - *********** Test_AddCustomer_003 ************
+08092023 03:27:43 PM - INFO - *********** Verifying AddCustomer Test ************
+08092023 03:27:48 PM - INFO - *********** Login Successful ************
+08092023 03:54:14 PM - INFO - *********** Test_AddCustomer_003 ************
+08092023 03:54:14 PM - INFO - *********** Verifying AddCustomer Test ************
+08092023 03:54:20 PM - INFO - *********** Login Successful ************
+08092023 03:54:34 PM - INFO - ********** New Customer Added Successfully **********
+08092023 03:55:07 PM - INFO - *********** Test_AddCustomer_003 ************
+08092023 03:55:07 PM - INFO - *********** Verifying AddCustomer Test ************
+08092023 03:55:12 PM - INFO - *********** Login Successful ************
+08092023 03:55:25 PM - INFO - ********** Adding new Customer failed **********
